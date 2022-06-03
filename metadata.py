@@ -14,14 +14,14 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 # Base metadata. MUST BE EDITED.
-BASE_IMAGE_URL = "ipfs://Qmequ3ED8yZtyKtv9cVMGwT6nrr2qFnMGVNBGz1gyEV83D"
+BASE_IMAGE_URL = "ipfs://QmS5bS3hHkPj27FD6Dk6Dh11cDe6r17SL7wEQvqQTaqaA3"
 BASE_NAME = "Gou_Sample"
 
 BASE_JSON = {
     "name": BASE_NAME,
     "description": "",
     "image": BASE_IMAGE_URL,
-    "attributes": [],
+    "attributes": ['gou_bkd_2', 'gou_face', 'gou_hair', 'gou_mask', 'gou_shirts', 'gou_body'],
 }
 
 
