@@ -19,7 +19,7 @@ BASE_NAME = "Gou_Sample"
 
 BASE_JSON = {
     "name": BASE_NAME,
-    "description": "",
+    "description": "500 sample Gou Pictures",
     "image": BASE_IMAGE_URL,
     "attributes": ['gou_bkd_2', 'gou_face', 'gou_hair', 'gou_mask', 'gou_shirts', 'gou_body'],
 }
